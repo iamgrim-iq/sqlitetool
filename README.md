@@ -1,6 +1,9 @@
 # SQLiteTool — интерактивный TUI для SQLite  
 `Powered by CLIGE`
 
+<img width="1888" height="1051" alt="{E9AAA81C-D44B-4282-A336-35A0CFF41076}" src="https://github.com/user-attachments/assets/98c1c715-2b3b-436f-a00f-7d33bf2a987e" />
+
+
 ## Оглавление
 1. [Описание](#описание)  
 2. [Возможности](#возможности)  
@@ -26,7 +29,7 @@
 * автоматическое центрирование интерфейса под размер терминала.
 
 ## Требования
-* (**Node.js ≥ 14**)[https://nodejs.org/en/download]
+* [**Node.js ≥ 14**](https://nodejs.org/en/download)
 * **SQLite 3** (клиентская библиотека поставляется вместе с `sqlite3` npm-модулем)
 
 ## Установка
@@ -76,7 +79,7 @@ SELECT done, COUNT(*) AS total FROM tasks GROUP BY done;
 
 # Автор
 
-**grim** ((ТГК)[https://t.me/codegoddev])
+**grim** ([ТГК](https://t.me/codegoddev))
 
 ## Лицензия
 MIT © 2025
