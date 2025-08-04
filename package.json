@@ -1,0 +1,19 @@
+{
+  "name": "sqlite-blood-tool",
+  "version": "1.0.0",
+  "description": "SQLite Tool в стиле redblood темы для CLIGE",
+  "main": "sqlite-tool.js",
+  "scripts": {
+    "start": "node sqlite-tool.js",
+    "dev": "nodemon sqlite-tool.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["sqlite", "cli", "database", "tool"],
+  "author": "Blood Warrior",
+  "license": "MIT"
+}
